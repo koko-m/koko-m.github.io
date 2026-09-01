@@ -26,7 +26,7 @@ title: Koko Muroya
 
 ---
 # 室屋 晃子（むろや こうこ）
-[[#Koko Muroya (室屋 晃子)|English]]
+[[index|English]]
 
 ![[IMG_8362.jpg|100]]
 
