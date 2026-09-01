@@ -1,8 +1,8 @@
 ---
 title: Koko Muroya
 ---
-# Koko Muroya (室屋 晃子) ^index-en
-[[#^index-jp|日本語]]
+# Koko Muroya (室屋 晃子)
+[[#室屋 晃子（むろや こうこ）|日本語]]
 
 ![[IMG_8362.jpg|100]]
 
@@ -25,8 +25,8 @@ title: Koko Muroya
 	- modelling of program execution, using graph rewriting
 
 ---
-# 室屋 晃子（むろや こうこ） ^index-jp
-[[#^index-en|English]]
+# 室屋 晃子（むろや こうこ）
+[[#Koko Muroya (室屋 晃子)|English]]
 
 ![[IMG_8362.jpg|100]]
 
