@@ -23,3 +23,7 @@ title: Koko Muroya
 	- comparison between program executions, using simulation notions from automata theory (or category theory)
 	- analysis of program execution, exploiting the technique called "critical pair analysis" from rewriting theory
 	- modelling of program execution, using graph rewriting
+
+---
+
+![[index-jp]]
