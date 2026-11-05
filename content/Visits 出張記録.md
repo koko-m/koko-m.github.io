@@ -1,5 +1,7 @@
 Just to help us remember where we met :)
 # 2026
+1. Workshop on Mathematical and Metamathematical Modeling (MMM) 2026 in NII, Japan (September 2026)
+2. [数理情報系女子学部生サマーキャンプ SCamp 2026](https://aip.riken.jp/events/scamp2026/?lang=ja) in Tokyo, Japan (September 2026)
 # 2024
 1. Visit to [Hamana Laboratory](http://solweb.mydns.jp/hamana/) in Kyushu Institute of Technology (02 December 2024 -- 06 December 2024)
 2. ASPIRE Camp 2024 in Shonan Village Center, Japan (November 2024)
